@@ -69,3 +69,14 @@ h1 {
 .hole.up .mole {
     top: 0;
 }
+
+button{
+    border:red solid 2.5px;
+    width: 70px;
+    height:45px;
+    font-size: 20px;
+    color:purple;
+    background-color:aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
